@@ -16,7 +16,7 @@ uv run main.py
 ## フロントエンド (Next.js)
 ```bash
 # Webディレクトリへ移動
-cd ../web
+cd apps/web
 
 # 依存関係のインストール
 npm install
@@ -24,3 +24,7 @@ npm install
 # 開発サーバーの起動
 npm run dev
 ```
+
+## 実際の画面
+![success](./images/success.png)
+
