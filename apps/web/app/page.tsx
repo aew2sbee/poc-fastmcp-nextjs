@@ -19,7 +19,7 @@ export default function Home() {
 
       <div className="bg-white shadow-md rounded-lg p-6 border border-gray-200">
         <form action={formAction} className="flex flex-col gap-4">
-          <label className="text-sm font-medium text-gray-700">「入力」+「送信」でPythonサーバーからオウム返ししてくれます</label>
+          <label className="text-sm font-medium text-gray-700">「入力」+「送信」でPythonサーバーからオウム返しをしてくれます</label>
           <div className="flex gap-2">
             <input
               name="message"
